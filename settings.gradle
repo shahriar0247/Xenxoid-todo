@@ -1,0 +1,2 @@
+rootProject.name='ZenXoid Todo'
+include ':app'
